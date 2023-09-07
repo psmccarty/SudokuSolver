@@ -64,6 +64,6 @@ public class SudokuTester {
 //                          8, 0, 0, 0, 7, 0, 4, 3, 9,
 //                          0, 0, 0, 0, 0, 1, 0, 0, 0};
 
-//    SudokuSolver.solve(testBoard, true);
+    SudokuSolver.solve(testBoard, true);
   }
 }

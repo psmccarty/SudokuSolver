@@ -59,7 +59,7 @@ public class SudokuImage {
    */
   public static void updatePuzzle(int indx) {
     try {
-      Thread.sleep(10); // slow down the program so it can be seen by a human
+      Thread.sleep(6); // slow down the program so it can be seen by a human
     } catch (InterruptedException e) {
       e.printStackTrace();
     }
